@@ -27,6 +27,7 @@ This repository contains my solution to the [Scandiweb junior developer test](ht
   - Type switcher (buttons for each type)
   - Special attribute (should be dynamically changed when a type is switched)
 - Validate the input according to the type selected
+- Full requirement [here](https://scandiweb.notion.site/Junior-Developer-Test-Task-1b2184e40dea47df840b7c0cc638e61e)
 
 ## Technologies Used
 
